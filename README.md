@@ -43,7 +43,7 @@ This project replicates the look and feel of Spotify's UI, including a sidebar, 
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/spotify-clone-frontend.git
+   git clone https:[//github.com/<your-username>/spotify-clone-frontend.git](https://github.com/PruthviDev-7/spotify-clone-frontend.git)
 2. Open index.html in your browser.
 
 3. Enjoy the 🎵 music player UI!
